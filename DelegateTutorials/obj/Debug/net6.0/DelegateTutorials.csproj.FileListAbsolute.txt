@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\bin\Debug\net6.0\DelegateTutorials.exe
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\bin\Debug\net6.0\DelegateTutorials.deps.json
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\bin\Debug\net6.0\DelegateTutorials.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\bin\Debug\net6.0\DelegateTutorials.dll
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\bin\Debug\net6.0\DelegateTutorials.pdb
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.dll
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\refint\DelegateTutorials.dll
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.pdb
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\DelegateTutorials.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\DelegateTutorials\DelegateTutorials\obj\Debug\net6.0\ref\DelegateTutorials.dll
